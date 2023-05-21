@@ -1,1 +1,1 @@
-This is my first time with repo in git
+This is my first time with repo in git.Hope to learn it quickly.
